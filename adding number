@@ -1,0 +1,4 @@
+n1 = float(input("enter: "))
+n2 = float(input("enter: "))
+s = n1 + n2
+print(s)
